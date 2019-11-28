@@ -1,4 +1,5 @@
-FacialKeypointsDetection/Data/test.csv
-FacialKeypointsDetection/Data/training.csv
-*.pkl
+FacialKeypointsDetection/Data
+
+DigitRecognizer/Data/
+
 *.feather
